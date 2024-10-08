@@ -1,0 +1,2 @@
+
+The application is designed to help users find the best car prices by analyzing the market. Whenever a new car enters the market, the system automatically compares its features, price, and specifications with existing listings to recommend the optimal price, ensuring users make informed buying decisions.
