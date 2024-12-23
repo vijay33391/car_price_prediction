@@ -129,7 +129,7 @@ celerybeat.pid
 
 # Environments
 logs/
-carprice_pred/
+car_pred/
 .env
 .venv
 env/
